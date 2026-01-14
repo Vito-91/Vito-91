@@ -17,4 +17,4 @@ In questo profilo trovi esercizi e piccoli progetti Java che rappresentano il mi
 Mi concentro sulla comprensione dei concetti, scrivendo codice semplice, chiaro e migliorabile nel tempo.
 
 ## 📫 Contatti
-LinkedIn:
+LinkedIn: 
