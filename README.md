@@ -1,16 +1,21 @@
-## Hi there 👋
+👋 Ciao, sono Vito
 
-<!--
-**Vito-91/Vito-91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sono uno sviluppatore Java junior in formazione.
+Sto costruendo il mio percorso nel mondo IT attraverso studio costante ed esercizi pratici.
 
-Here are some ideas to get you started:
+🎯 Obiettivo
+Entrare come Junior Java Developer e crescere professionalmente all’interno di un team strutturato.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Competenze in studio
+- Java (basi, OOP, Date, Enum)
+- Logica di programmazione
+- Git e GitHub
+
+📂 Repository
+In questo profilo trovi esercizi e piccoli progetti Java che rappresentano il mio percorso di apprendimento.
+
+📈 Metodo
+Mi concentro sulla comprensione dei concetti, scrivendo codice semplice, chiaro e migliorabile nel tempo.
+
+📫 Contatti
+LinkedIn: (lo aggiungiamo dopo)
