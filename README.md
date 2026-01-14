@@ -17,4 +17,6 @@ In questo profilo trovi esercizi e piccoli progetti Java che rappresentano il mi
 Mi concentro sulla comprensione dei concetti, scrivendo codice semplice, chiaro e migliorabile nel tempo.
 
 ## 📫 Contatti
-LinkedIn: 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vito%20Salamino-blue?style=flat&logo=linkedin)](https://https://www.linkedin.com/in/vito-salamino-b12489323/)
+
