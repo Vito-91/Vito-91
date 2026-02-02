@@ -1,6 +1,6 @@
-👋 Ciao, sono Vito
+👋 Ciao!
 
-Sono un Junior Java Developer con focus sullo sviluppo backend.
+Sono Vito, un Junior Java Developer con focus sullo sviluppo backend.
 Ho concluso un percorso di formazione in programmazione Java e sto consolidando le mie competenze attraverso progetti pratici e studio continuo.
 
 ## 🎯 Obiettivo
